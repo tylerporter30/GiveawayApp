@@ -28,10 +28,7 @@ To-do list:
 
 ## Getting Started
    
-(include git clone command)
-(include all environment setup steps)
-
-> Be sure to include BOTH Windows and Unix command  
+https://github.com/tylerporter30/GiveawayApp/tree/master 
 
 ## Contributors
 
