@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GiveawayApp</string>
+    <string name="title_activity_login_screen">LoginScreen</string>
+    <string name="title_activity_create_account">CreateAccount</string>
+    <string name="title_activity_forgot_password">ForgotPassword</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>

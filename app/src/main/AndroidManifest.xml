@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.giveawayapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.GiveawayApp">
+        <activity
+            android:name=".Profile"
+            android:exported="false"
+            android:label="ProfileScreen"
+            android:theme="@style/Theme.GiveawayApp" />
+        <activity
+            android:name=".EditProfileView"
+            android:exported="false"
+            android:label="EditProfileViewScreen"
+            android:theme="@style/Theme.GiveawayApp" />
+        <activity
+            android:name=".DonationCreate"
+            android:exported="false"
+            android:label="DonationCreateScreen"
+            android:theme="@style/Theme.GiveawayApp" />
+        <activity
+            android:name=".DonationRequest"
+            android:exported="false"
+            android:label="DonationRequestScreen"
+            android:theme="@style/Theme.GiveawayApp" />
+        <activity
+            android:name=".ForgotPasswordView"
+            android:exported="false"
+            android:label="@string/title_activity_forgot_password"
+            android:theme="@style/Theme.GiveawayApp" />
+        <activity
+            android:name=".CreateAccountView"
+            android:exported="false"
+            android:label="@string/title_activity_create_account"
+            android:theme="@style/Theme.GiveawayApp" />
+        <activity
+            android:name=".Home"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.GiveawayApp"/>
+        <activity
+            android:name=".Social"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.GiveawayApp"/>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.GiveawayApp">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
