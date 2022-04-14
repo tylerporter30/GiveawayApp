@@ -32,7 +32,7 @@ To-do list:
 4. Build and run the project.
 
 ## Contributors
-Khaled Khalil
-Richard Navarro
-Tyler Porter
-Kevin Weakley 
+* Khaled Khalil (https://github.com/KhaledK1123)
+* Richard Navarro (https://github.com/rnavarro97)
+* Tyler Porter (https://github.com/tylerporter30)
+* Kevin Weakley (https://github.com/Kevin-Weakley) 
