@@ -27,11 +27,12 @@ To-do list:
 * Update search posts to store and populate on the social page.  
 
 ## Getting Started
-   
-https://github.com/tylerporter30/GiveawayApp/tree/master 
+1. Install and Android Studio
+2. Download the project: git clone https://github.com/tylerporter30/GiveawayApp/tree/master
+3. Import the project into Android Studio.
+4. Build and run the project.
 
 ## Contributors
-
 Khaled Khalil
 Richard Navarro
 Tyler Porter
