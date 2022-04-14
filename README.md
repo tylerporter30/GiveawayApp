@@ -1,5 +1,4 @@
-# PROJECT NAME
-New to You 
+# NEW TO YOU 
 
 ## Project Description
 This is a local mobile application that gives users a platform to donate clothing items, household items, food, school supplies, or any other item that they don’t need anymore to someone who does. Users can search for items based on type or location. Users can also post that they are looking for a specific item and their reason for needing that item.
