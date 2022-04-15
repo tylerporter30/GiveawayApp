@@ -1,7 +1,7 @@
 # NEW TO YOU 
 
 ## Project Description
-This is a local mobile application that gives users a platform to donate clothing items, household items, food, school supplies, or any other item that they don’t need anymore to someone who does. Users can search for items based on type or location. Users can also post that they are looking for a specific item and their reason for needing that item.
+An app designed to facilitate donations within the community. This app allows the user to request donations from other app users via a communal board, as well as post their own donations. Donations can be claimed from the home page. App users with a large number of donations given are recognized on their user profile.
 
 ## Technologies Used
 * Kotlin 
